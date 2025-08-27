@@ -3,14 +3,14 @@
 SendMode Input   
 
 ; --------- DÉFINITION DES PSEUDOS (ORDRE D’INITIATIVE) ---------
-Pseudo_1 := "ENTRER VOTRE PSEUDO ICI"
-Pseudo_2 := "ENTRER VOTRE PSEUDO ICI"
-Pseudo_3 := "ENTRER VOTRE PSEUDO ICI"
-Pseudo_4 := "ENTRER VOTRE PSEUDO ICI"	 
-Pseudo_5 := "ENTRER VOTRE PSEUDO ICI"
-Pseudo_6 := "ENTRER VOTRE PSEUDO ICI"
-Pseudo_7 := "ENTRER VOTRE PSEUDO ICI" 
-Pseudo_8 := "ENTRER VOTRE PSEUDO ICI"
+Pseudo_1 := "Sarathi-[Era]"
+Pseudo_2 := "Sarati-Ocre"
+Pseudo_3 := "Sarati-𝖨voire"
+Pseudo_4 := "Sarati"	 
+Pseudo_5 := "Sarati-emeraude"
+Pseudo_6 := "Sarati-Turquoise"
+Pseudo_7 := "Sarati-Pourpre" 
+Pseudo_8 := "Sarati-ebene"
 
 
 ; --------- DÉFINITION DES COORDONNÉES PASSER TOUR (Attention ne pas lancer spectateur si hors combat) ---------
@@ -263,3 +263,4 @@ Loop, 8 {
     }
 }
 return
+
